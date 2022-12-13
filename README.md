@@ -3,9 +3,10 @@
 To start, clone this repository and follow the steps below. 
 
 1) Create a .env file and make save your api key values in the file
-`
-touch .env
-`
+
+
+`touch .env`
+
 
 2) With the .env file, save the key values as shown below 
 
@@ -28,9 +29,13 @@ The `SERPAPI_KEY` is your SerpAPI key
 
 
 3) Install the dependencies by running
+
+
   `npm install `
 
 
 4) Start the server and 
+
+
   `node index.js`
  
